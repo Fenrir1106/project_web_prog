@@ -1,0 +1,11 @@
+logo.png: https://cdn.onlinewebfonts.com/svg/img_418523.png
+search_icon.png: https://cdn.onlinewebfonts.com/svg/img_194915.png
+samsung_a52: https://cdn.movertix.com/media/catalog/product/cache/image/1200x/s/a/samsung-galaxy-a52-5g-dual-sim-awesome-violet-128gb-and-6gb-ram-sm-a526b-ds.jpg
+samsung_a21: https://d28i4xct2kl5lp.cloudfront.net/product_images/144527_b650d361-6e92-4a21-8af9-6225e165e033.jpg
+lenovo_legion: https://geekculture.co/wp-content/uploads/2020/05/lenovo-legion-gaming-pc-laptop-coldfront-2.0-truestrike-keyboard-2.jpg
+asus_ROG: https://pcper.com/wp-content/uploads/2015/03/c096-g501-left-open135-top-scaled.jpg
+samsung_55OLED: https://s3-ap-south-1.amazonaws.com/comparegig-assets/wp-content/uploads/2018/12/25014532/samsung-138-cm-55-inch-55q8cn-4k-ultra-hd-qled-tv.jpg
+samsung_32HD: https://c.shld.net/rpx/i/s/i/spin/image/spin_prod_498111801
+samsung_a35: https://cdn.movertix.com/media/catalog/product/cache/image/1200x/s/a/samsung-galaxy-a32-5g-dual-sim-awesome-violet-128gb-and-4gb-ram-sm-a326f-ds.jpg
+samsung_a03s: https://www.phoneplacekenya.com/wp-content/uploads/2021/05/Samsung-Galaxy-A03s.jpg
+acer_predator: https://www.technobezz.com/files/uploads/2016/03/acer-predator-17-1.jpg
