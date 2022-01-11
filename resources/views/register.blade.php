@@ -1,7 +1,7 @@
 @extends('master.layout')
 @section('content')
-    <div class="row" style="background-color: #ccd9e2">
-        <div class="mx-auto bg-light col-md-8 my-5">
+    <div class="row" style="background-color: #ccd9e2;">
+        <div class="mx-auto bg-light col-lg-8 my-5">
             <form action="{{ route("register.user") }}" class="p-3" method="POST">
                 @csrf
                 <h4 style="color: #285185">Join With Us</h4>

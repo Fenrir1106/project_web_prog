@@ -20,7 +20,11 @@
                     <form action="{{ route('product.search') }}" method="POST" style="margin: 17px 10px 0px 30px">
                         @csrf
                         <div class="d-flex form-group">
-                            <input type="text" name="search_bar" placeholder="Search Product...." class="form-control">
+                            @if (!empty($search_bar))
+                                <input type="text" name="search_bar" class="form-control" value="{{$search_bar}}">
+                            @else
+                                <input type="text" name="search_bar" placeholder="Search Product...." class="form-control">
+                            @endif
                             <input type="image" name="submit" src="{{ asset('image/search_icon.png') }}" alt="submit" class="mt-2 ml-3" style="width: 15px;height: 15px">
                         </div>
                     </form>

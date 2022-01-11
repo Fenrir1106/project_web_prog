@@ -52,7 +52,7 @@ class ProductController extends Controller
         if($is_user_logged_in){
             $role = UserController::getAuthenticatedUserRole();
         }
-        return view("index", ["products" => $data, "is_empty" => false, "login_token" => $is_user_logged_in, "role" => $role]);
+        return view("index", ["products" => $data, "is_empty" => false, "login_token" => $is_user_logged_in, "role" => $role, "search_bar" => $request->search_bar]);
     }
 
     public function deleteProduct(Product $product){
